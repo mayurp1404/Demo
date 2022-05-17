@@ -1,6 +1,6 @@
 public class Student{
 
-String name ="Ram"
+String name ="Ram1"
 
 public static void main (String []args){
 
